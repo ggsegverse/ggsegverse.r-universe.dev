@@ -1,23 +1,23 @@
 [
     {
+        "package": "ggseg.hub",
+        "url": "https://github.com/ggsegverse/ggseg.hub"
+    },
+    {
         "package": "ggseg.formats",
-        "url": "https://github.com/ggseg/ggseg.formats"
+        "url": "https://github.com/ggsegverse/ggseg.formats"
     },
     {
         "package": "ggseg",
-        "url": "https://github.com/ggseg/ggseg"
+        "url": "https://github.com/ggsegverse/ggseg"
     },
     {
         "package": "ggseg3d",
-        "url": "https://github.com/ggseg/ggseg3d"
+        "url": "https://github.com/ggsegverse/ggseg3d"
     },
     {
         "package": "ggseg.extra",
-        "url": "https://github.com/ggseg/ggseg.extra"
-    },
-    {
-        "package": "ggseg.hub",
-        "url": "https://github.com/ggseg/ggseg.hub"
+        "url": "https://github.com/ggsegverse/ggseg.extra"
     },
     {
         "package": "neuromapr",
@@ -29,91 +29,91 @@
     },
     {
         "package": "ggsegYeo2011",
-        "url": "https://github.com/ggseg/ggsegYeo2011"
+        "url": "https://github.com/ggsegverse/ggsegYeo2011"
     },
     {
         "package": "ggsegSchaefer",
-        "url": "https://github.com/ggseg/ggsegSchaefer"
+        "url": "https://github.com/ggsegverse/ggsegSchaefer"
     },
     {
         "package": "ggsegGlasser",
-        "url": "https://github.com/ggseg/ggsegGlasser"
+        "url": "https://github.com/ggsegverse/ggsegGlasser"
     },
     {
         "package": "ggsegDesterieux",
-        "url": "https://github.com/ggseg/ggsegDesterieux"
+        "url": "https://github.com/ggsegverse/ggsegDesterieux"
     },
     {
         "package": "ggsegChen",
-        "url": "https://github.com/ggseg/ggsegChen"
+        "url": "https://github.com/ggsegverse/ggsegChen"
     },
     {
         "package": "ggsegTracula",
-        "url": "https://github.com/ggseg/ggsegTracula"
+        "url": "https://github.com/ggsegverse/ggsegTracula"
     },
     {
         "package": "ggsegDKT",
-        "url": "https://github.com/ggseg/ggsegDKT"
+        "url": "https://github.com/ggsegverse/ggsegDKT"
     },
     {
         "package": "ggsegJHU",
-        "url": "https://github.com/ggseg/ggsegJHU"
+        "url": "https://github.com/ggsegverse/ggsegJHU"
     },
     {
         "package": "ggsegICBM",
-        "url": "https://github.com/ggseg/ggsegICBM"
+        "url": "https://github.com/ggsegverse/ggsegICBM"
     },
     {
         "package": "ggsegHO",
-        "url": "https://github.com/ggseg/ggsegHO"
+        "url": "https://github.com/ggsegverse/ggsegHO"
     },
     {
         "package": "ggsegBrainnetome",
-        "url": "https://github.com/ggseg/ggsegBrainnetome"
+        "url": "https://github.com/ggsegverse/ggsegBrainnetome"
     },
     {
         "package": "ggsegPower",
-        "url": "https://github.com/ggseg/ggsegPower"
+        "url": "https://github.com/ggsegverse/ggsegPower"
     },
     {
         "package": "ggsegAal",
-        "url": "https://github.com/ggseg/ggsegAal"
+        "url": "https://github.com/ggsegverse/ggsegAal"
     },
     {
         "package": "ggsegIca",
-        "url": "https://github.com/ggseg/ggsegIca"
+        "url": "https://github.com/ggsegverse/ggsegIca"
     },
     {
         "package": "ggsegAicha",
-        "url": "https://github.com/ggseg/ggsegAicha"
+        "url": "https://github.com/ggsegverse/ggsegAicha"
     },
     {
         "package": "ggsegGordon",
-        "url": "https://github.com/ggseg/ggsegGordon"
+        "url": "https://github.com/ggsegverse/ggsegGordon"
     },
     {
         "package": "ggsegArslan",
-        "url": "https://github.com/ggseg/ggsegArslan"
+        "url": "https://github.com/ggsegverse/ggsegArslan"
     },
     {
         "package": "ggsegBrodmann",
-        "url": "https://github.com/ggseg/ggsegBrodmann"
+        "url": "https://github.com/ggsegverse/ggsegBrodmann"
     },
     {
         "package": "ggsegCampbell",
-        "url": "https://github.com/ggseg/ggsegCampbell"
+        "url": "https://github.com/ggsegverse/ggsegCampbell"
     },
     {
         "package": "ggsegKleist",
-        "url": "https://github.com/ggseg/ggsegKleist"
+        "url": "https://github.com/ggsegverse/ggsegKleist"
     },
     {
         "package": "ggsegFlechsig",
-        "url": "https://github.com/ggseg/ggsegFlechsig"
+        "url": "https://github.com/ggsegverse/ggsegFlechsig"
     },
     {
         "package": "ggsegEconomo",
-        "url": "https://github.com/ggseg/ggsegEconomo"
+        "url": "https://github.com/ggsegverse/ggsegEconomo"
     },
     {
         "package": "freesurfer",
