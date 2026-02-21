@@ -1,9 +1,5 @@
 [
     {
-        "package": "ggseg.hub",
-        "url": "https://github.com/ggsegverse/ggseg.hub"
-    },
-    {
         "package": "ggseg.formats",
         "url": "https://github.com/ggsegverse/ggseg.formats"
     },
