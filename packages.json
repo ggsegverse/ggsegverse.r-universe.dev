@@ -12,7 +12,7 @@
         "url": "https://github.com/ggsegverse/ggseg3d"
     },
     {
-        "package": "ggsegExtra",
+        "package": "ggseg.extra",
         "url": "https://github.com/ggsegverse/ggseg.extra"
     },
     {
