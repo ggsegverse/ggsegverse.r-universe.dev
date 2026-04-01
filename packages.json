@@ -92,24 +92,8 @@
         "url": "https://github.com/ggsegverse/ggsegArslan"
     },
     {
-        "package": "ggsegBrodmann",
-        "url": "https://github.com/ggsegverse/ggsegBrodmann"
-    },
-    {
-        "package": "ggsegCampbell",
-        "url": "https://github.com/ggsegverse/ggsegCampbell"
-    },
-    {
-        "package": "ggsegKleist",
-        "url": "https://github.com/ggsegverse/ggsegKleist"
-    },
-    {
-        "package": "ggsegFlechsig",
-        "url": "https://github.com/ggsegverse/ggsegFlechsig"
-    },
-    {
-        "package": "ggsegEconomo",
-        "url": "https://github.com/ggsegverse/ggsegEconomo"
+        "package": "ggsegHistorical",
+        "url": "https://github.com/ggsegverse/ggsegHistorical"
     },
     {
         "package": "freesurfer",
