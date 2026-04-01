@@ -36,10 +36,6 @@
         "url": "https://github.com/ggsegverse/ggsegGlasser"
     },
     {
-        "package": "ggsegDestrieux",
-        "url": "https://github.com/ggsegverse/ggsegDestrieux"
-    },
-    {
         "package": "ggsegChen",
         "url": "https://github.com/ggsegverse/ggsegChen"
     },
@@ -48,16 +44,8 @@
         "url": "https://github.com/ggsegverse/ggsegTracula"
     },
     {
-        "package": "ggsegDKT",
-        "url": "https://github.com/ggsegverse/ggsegDKT"
-    },
-    {
         "package": "ggsegJHU",
         "url": "https://github.com/ggsegverse/ggsegJHU"
-    },
-    {
-        "package": "ggsegICBM",
-        "url": "https://github.com/ggsegverse/ggsegICBM"
     },
     {
         "package": "ggsegHO",
@@ -90,6 +78,10 @@
     {
         "package": "ggsegArslan",
         "url": "https://github.com/ggsegverse/ggsegArslan"
+    },
+    {
+        "package": "ggsegFreeSurfer",
+        "url": "https://github.com/ggsegverse/ggsegFreeSurfer"
     },
     {
         "package": "ggsegHistorical",
