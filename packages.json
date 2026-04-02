@@ -91,6 +91,14 @@
         "package": "freesurfer",
         "url": "https://github.com/drmowinckels/freesurfer",
         "branch": "refactor"
+    },
+    {
+        "package": "ggsegSUIT",
+        "url": "https://github.com/ggsegverse/ggsegSUIT"
+    },
+    {
+        "package": "ggsegCerebellum",
+        "url": "https://github.com/ggsegverse/ggsegCerebellum"
     }
 ]
 
