@@ -4,6 +4,10 @@
         "url": "https://github.com/ggsegverse/ggseg.formats"
     },
     {
+        "package": "ggseg.meshes",
+        "url": "https://github.com/ggsegverse/ggseg.meshes"
+    },
+    {
         "package": "ggseg",
         "url": "https://github.com/ggsegverse/ggseg"
     },
