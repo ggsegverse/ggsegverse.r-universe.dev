@@ -89,8 +89,7 @@
   },
   {
     "package": "freesurfer",
-    "url": "https://github.com/drmowinckels/freesurfer",
-    "branch": "refactor"
+    "url": "https://github.com/muschellij2/freesurfer"
   },
   {
     "package": "ggsegCerebellum",
