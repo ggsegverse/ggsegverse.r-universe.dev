@@ -88,6 +88,10 @@
     "url": "https://github.com/ggsegverse/ggsegHistorical"
   },
   {
+    "package": "ggsegNeuromorphometrics",
+    "url": "https://github.com/ggsegverse/ggsegNeuromorphometrics"
+  },
+  {
     "package": "freesurfer",
     "url": "https://github.com/muschellij2/freesurfer"
   },
